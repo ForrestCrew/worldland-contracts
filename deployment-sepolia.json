@@ -1,0 +1,11 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "deployer": "0xC820D1e0A929c23C17Cb4bc8620F92e0084bFe8a",
+  "contracts": {
+    "worldlandRental": "0x72eeA060D354Ee15d6B494a02135F4Df8856F33e",
+    "paymentToken": "0xB89A431232Dc67c866945996fa75C61026C4427F"
+  },
+  "timestamp": "2026-02-03T14:21:26.670Z",
+  "blockNumber": 10183194
+}
